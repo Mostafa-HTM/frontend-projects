@@ -1,21 +1,35 @@
-# My Frontend Projects
+# 🧑‍💻 My Frontend Projects
 
-This repository contains my frontend projects completed as part of Roadmap.sh.
+This repository contains frontend projects completed as part of the [Roadmap.sh Frontend Path](https://roadmap.sh/frontend/projects).
 
-## Single-Page CV
-A simple single-page resume built using HTML. It includes sections like education, career history, and skills.
+---
 
-Project URL: [View Project](https://github.com/Mostafa-HTM/roadmap-projects/tree/main/single-page-cv)
+## 📄 Single-Page CV
 
-Roadmap URL: (https://roadmap.sh/projects/single-page-cv)
+A simple single-page resume built using only HTML.  
+It includes sections such as:
 
-## Basic HTML Website
-A multi-page website created using only HTML. It includes:
-- Home page
-- Projects page
-- Articles page
-- Contact page with a form
+- Name and title  
+- Career history  
+- Education  
+- Skills  
+- Testimonials  
+- Contact information  
 
-Project URL: [View Project](https://github.com/Mostafa-HTM/roadmap-projects/tree/main/basic-html-website)
+🔗 **[View Project on GitHub](https://github.com/Mostafa-HTM/frontend-projects/tree/main/single-page-cv)**  
+🌐 **[View on Roadmap.sh](https://roadmap.sh/projects/single-page-cv)**
 
-Roadmap URL: (https://roadmap.sh/projects/basic-html-website)
+---
+
+## 🌐 Basic HTML Website
+
+A multi-page website created using only HTML.  
+It includes the following pages:
+
+- `index.html` (Home)  
+- `projects.html` (Projects)  
+- `articles.html` (Articles)  
+- `contact.html` (Contact page with form)
+
+🔗 **[View Project on GitHub](https://github.com/Mostafa-HTM/frontend-projects/tree/main/basic-html-website)**  
+🌐 **[View on Roadmap.sh](https://roadmap.sh/projects/basic-html-website)**
