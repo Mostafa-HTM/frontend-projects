@@ -1,10 +1,34 @@
-# Basic HTML Website
+# 🌐 Basic HTML Website
 
-This is a simple multi-page website created using only HTML as part of the Roadmap.sh frontend projects. It includes:
+A multi-page website built using only HTML as part of the [Roadmap.sh Frontend Path](https://roadmap.sh/frontend/projects).
 
-- Home page
-- Projects page
-- Articles page
-- Contact page with a form
+---
 
-Project URL: [View Project](https://github.com/Mostafa-HTM/roadmap-projects/tree/main/basic-html-website)
+## 📄 Pages Included
+
+- `index.html`: Homepage with brief introduction
+- `projects.html`: Project showcase with GitHub links
+- `articles.html`: Placeholder for future blog posts
+- `contact.html`: Contact form with name, email, and message fields
+
+---
+
+## ✅ Features
+
+- Semantic HTML5 tags (`<header>`, `<main>`, `<footer>`, `<nav>`)
+- Shared navigation across all pages
+- SEO meta tags in each page
+- Form elements using basic HTML
+
+---
+
+## 🚀 How to View
+
+Open any of the `.html` files in a browser.  
+Start with `index.html` to explore the website.
+
+---
+
+## 📚 Related Link
+
+🔗 [Roadmap.sh Project Description](https://roadmap.sh/projects/basic-html-website)
