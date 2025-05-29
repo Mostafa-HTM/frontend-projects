@@ -1,10 +1,10 @@
-# 🌐 Basic HTML Website
+# Basic HTML Website
 
 A multi-page website built using only HTML as part of the [Roadmap.sh Frontend Path](https://roadmap.sh/frontend/projects).
 
 ---
 
-## 📄 Pages Included
+## Pages Included
 
 - `index.html`: Homepage with brief introduction
 - `projects.html`: Project showcase with GitHub links
@@ -13,7 +13,7 @@ A multi-page website built using only HTML as part of the [Roadmap.sh Frontend P
 
 ---
 
-## ✅ Features
+## Features
 
 - Semantic HTML5 tags (`<header>`, `<main>`, `<footer>`, `<nav>`)
 - Shared navigation across all pages
@@ -22,13 +22,13 @@ A multi-page website built using only HTML as part of the [Roadmap.sh Frontend P
 
 ---
 
-## 🚀 How to View
+## How to View
 
 Open any of the `.html` files in a browser.  
 Start with `index.html` to explore the website.
 
 ---
 
-## 📚 Related Link
+## Related Link
 
-🔗 [Roadmap.sh Project Description](https://roadmap.sh/projects/basic-html-website)
+[Roadmap.sh Project Description](https://roadmap.sh/projects/basic-html-website)
