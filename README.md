@@ -33,3 +33,18 @@ It includes the following pages:
 
 **[View Project on GitHub](https://github.com/Mostafa-HTM/frontend-projects/tree/main/basic-html-website)**  
 **[View on Roadmap.sh](https://roadmap.sh/projects/basic-html-website)**
+
+---
+
+## Styled HTML Website
+
+A responsive and styled version of the basic website using HTML and CSS.  
+It includes Flexbox layout, media queries, and a sticky footer. Pages:
+
+- `index.html` (Home)  
+- `projects.html` (Projects)  
+- `articles.html` (Articles)  
+- `contact.html` (Contact page with form and social icons)
+
+**[View Project on GitHub](https://github.com/Mostafa-HTM/frontend-projects/tree/main/styled-html-website)**  
+**[View on Roadmap.sh](https://roadmap.sh/projects/styled-html-website)**
