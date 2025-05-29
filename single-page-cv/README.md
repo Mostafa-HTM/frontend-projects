@@ -1,10 +1,10 @@
-# 📄 Single-Page CV
+# Single-Page CV
 
 A simple single-page resume created using only HTML as part of the [Roadmap.sh Frontend Path](https://roadmap.sh/frontend/projects).
 
 ---
 
-## 📌 Features
+## Features
 
 - Semantic HTML5 structure
 - Resume layout with sections:
@@ -18,12 +18,12 @@ A simple single-page resume created using only HTML as part of the [Roadmap.sh F
 
 ---
 
-## 🚀 How to View
+## How to View
 
 Open the `index.html` file in your browser to see the resume.
 
 ---
 
-## 📚 Related Link
+## Related Link
 
-🔗 [Roadmap.sh Project Description](https://roadmap.sh/projects/single-page-cv)
+[Roadmap.sh Project Description](https://roadmap.sh/projects/single-page-cv)
