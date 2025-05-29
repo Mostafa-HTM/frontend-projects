@@ -46,5 +46,5 @@ It includes Flexbox layout, media queries, and a sticky footer. Pages:
 - `articles.html` (Articles)  
 - `contact.html` (Contact page with form and social icons)
 
-**[View Project on GitHub](https://github.com/Mostafa-HTM/frontend-projects/tree/main/styled-html-website)**  
-**[View on Roadmap.sh](https://roadmap.sh/projects/styled-html-website)**
+**[View Project on GitHub](https://github.com/Mostafa-HTM/frontend-projects/tree/main/personal-portfolio)**  
+**[View on Roadmap.sh](https://roadmap.sh/projects/portfolio-website)**
